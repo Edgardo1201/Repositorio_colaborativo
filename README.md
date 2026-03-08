@@ -3,11 +3,16 @@
 Este proyecto en Python incluye varios módulos con funcionalidades básicas.  
 El objetivo es practicar la organización de código, el trabajo en equipo y el uso de GitHub.
 
-## 🚀 Instrucciones de uso
+## Instrucciones de uso
 
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/Edgardo1201/Repositorio_colaborativo.git
+
+Ingresa a la carpeta con el nombre indicado de repositorio colaborativo en la terminal integrada
+Luego ejecuta el archivo principal. deberia ser python main.py
+y al ejecutar saldra en pantalla la lista del menu princiapl de las tareas agregadas, con sus distintas funcionalidades.
+
 Descripción de los módulos
 
 operaciones.py → Contiene funciones matemáticas básicas: sumar, restar, multiplicar y dividir.
