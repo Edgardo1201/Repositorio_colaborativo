@@ -17,7 +17,7 @@ Descripción de los módulos
 
 operaciones.py → Contiene funciones matemáticas básicas: sumar, restar, multiplicar y dividir.
 conversiones.py → Incluye funciones de conversión de unidades: temperatura, distancia y peso, para reforizar temas basicos y gestionar con facilidad el uso de estas operaciones utiles en la vida cotidiana.
-cuento.py → Muestra una fábula aleatoria seleccionada de una lista, redactada bajo la creatividad y libertad de la persona.
+cuento.py → Muestra una fábula aleatoria seleccionada de una lista, redactada bajo la creatividad y libertad de la persona, que le toco del grupo.
 
 Colaboradores
 Edgardo1201
