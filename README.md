@@ -19,10 +19,15 @@ operaciones.py → Contiene funciones matemáticas básicas: sumar, restar, mult
 conversiones.py → Incluye funciones de conversión de unidades: temperatura, distancia y peso, para reforizar temas basicos y gestionar con facilidad el uso de estas operaciones utiles en la vida cotidiana.
 cuento.py → Muestra una fábula aleatoria seleccionada de una lista, redactada bajo la creatividad y libertad de la persona.
 
+Se agregó una mejora al módulo cuento.py, incorporando la función:
+mostrar_varios_cuentos(cantidad=3)
+Esta función permite mostrar varias fábulas aleatorias de la lista en lugar de solo una, ampliando la funcionalidad del módulo y permitiendo visualizar múltiples historias en una sola ejecución del programa.
+
 Colaboradores
 Edgardo1201
 edmcruz
 marieacv
+Israel-Perez-Rosales
 
 Licencia
 Este proyecto esta bajo licencia MIT.
