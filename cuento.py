@@ -12,3 +12,11 @@ def mostrar_cuento():
     cuento = random.choice(fabulas)
     print("\n=== CUENTO / FÁBULA ALEATORIA ===")
     print(cuento)
+
+def mostrar_varios_cuentos(cantidad=3):
+    print("\n=== VARIAS FÁBULAS ===")
+    
+    seleccion = random.sample(fabulas, cantidad)
+
+    for fabula in seleccion:
+        print("-", fabula)
